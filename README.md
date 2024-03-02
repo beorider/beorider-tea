@@ -1,0 +1,2 @@
+# beorider-tea
+testnet-tea
